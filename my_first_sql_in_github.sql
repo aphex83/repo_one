@@ -1,0 +1,1 @@
+SELECT * FROM cip.cell_cluster;
